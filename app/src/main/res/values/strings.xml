@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FoursquarePlaces</string>
+
+    <string name="title_activity_full_view_photo">FullViewPhotoActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="internet_connection_error">You device is not connected to the internet,conncet and try again.</string>
+    <string name="try_again">Try Again</string>
+    <string name="connect_internet">Conntect device to internet</string>
+    <string name="photos">Photos</string>
+    <string name="error_google_api">Run this on actual device not emulator</string>
+
+    <string-array name="query_array">
+        <item>Cafe</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Sweet</item>
+        <item>Fast food</item>
+    </string-array>
+</resources>
